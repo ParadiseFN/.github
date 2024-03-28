@@ -1,12 +1,19 @@
-## Hi there 👋
+# Hello and welcome to, ParadiseFN
 
-<!--
+Welcome to our GitHub profile!
 
-**Here are some ideas to get you started:**
+Here you will find some of our open source repositorys and other information about us if you want to keep reading below!
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Skills
+
+We work with the following coding languages.
+
+- C++
+- JavaScript 
+- C# 
+- XAML
+- HTML
+
+I appreciate your visit and interest in our work. If you want to collaborate on our repositorys just send a Pull request to help us! 
+
+Thank you for taking the time to read this if you did.
