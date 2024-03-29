@@ -4,6 +4,7 @@ Welcome to our GitHub profile!
 
 Here you will find some of our open source repositories and other information about us if you want to keep reading below!
 
+Join the Discord: https://discord.gg/jBKmK57xsp
 ## Skills
 
 We work with the following coding languages.
