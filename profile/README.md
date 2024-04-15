@@ -13,6 +13,7 @@ We work with the following coding languages.
 - JavaScript 
 - C# 
 - XAML
+- Elixir
 
 We appreciate your visit and interest in our work. If you want to collaborate on our repositories just send a Pull request to help us! 
 
